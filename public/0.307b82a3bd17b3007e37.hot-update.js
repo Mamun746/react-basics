@@ -1,0 +1,1 @@
+webpackHotUpdate(0,{5:function(e,t,r){"use strict";var u=n(r(1)),a=n(r(7));function n(e){return e&&e.__esModule?e:{default:e}}var o=u.default.createElement("p",null,"I Love you from core of my heart !!!!");a.default.render(o,document.getElementById("app"))}});
